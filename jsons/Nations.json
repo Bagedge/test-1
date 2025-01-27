@@ -20,7 +20,7 @@
 		"neutralYes": ["Pourquoi pas.","Allez essayons."],
 
 		"hateHello": "Qu'est que vous voulez?",
-		"hateLetsHearIt": ["Allez","Qu'est que vous voulez",],
+		"hateLetsHearIt": ["Allez","Qu'est que vous voulez"],
 		"hateNo": ["Dans tes rêves!","Bien sur que non!","Je n'ai pas compris"],
 		"hateYes": ["Pourquoi pas tester ? ","Allez..."],
 		
@@ -30,9 +30,8 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Rennes","Brest","","Quimper","Lorient","Vannes","Saint-Malo","Saint-Brieuc","Lanester",
+			"Concarneau","Fougères","Lannion","Bruz","Vitré","Ploemeur","Cesson-Sévigné","Lamballe-Armor","Landerneau","Hennebont",
+			"Guipavas","Morlaix"]
 	}
 ]
