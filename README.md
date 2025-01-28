@@ -1,5 +1,6 @@
-# Unciv-mod-example
+# Unciv mod sur la Bretagne 
 
-An example mod for Unciv, that adds one new Civilization.
+ce mod ajoute une seule civilation mais j'éssayerais d'en ajouter d'autres (en rapport avec les régions de france)
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+pour plus d'informations surcomment on fait et utilise un mod , réferer vous à [intoductions de set-up](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+plus d'info sur le jeu aller sur le [discord] (https://discord.com/channels/586194543280390151/588357788779151384) M
