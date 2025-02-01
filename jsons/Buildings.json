@@ -4,11 +4,19 @@
 		"replaces": "Granary",
 		"uniqueTo": "Breton",
 		"cost": 40,
-		"happiness": 12,
+		"happiness": 6,
 		"science": 2,
 		"maintenance": 1,
 		"isNationalWonder": false
 		"requiredTech": "Pottery"
-	}
+		
+		"name": "Crêperie",
+		"uniqueTo": "Breton",
+		"cost": 60,
+		"happiness": 1,
+		"Growth": 5,
+		"maintenance": 0,
+		"requiredTech": "Currency"
+
 	}
 ]
