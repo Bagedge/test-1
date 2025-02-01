@@ -3,7 +3,7 @@
 		"name": "Breton",
 		"leaderName": "François I de Breatgne",
 		"adjective": ["breton"],
-		"startBias": ["Sand"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Cutural",
 		
 		"startIntroPart1": "Demath, mon camarade.",
