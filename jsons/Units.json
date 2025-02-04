@@ -8,7 +8,7 @@
 		"strength": 25,
 		"rangedStrength": 25,
 		"cost": 90,
-		"requiredTech": "Civil Sercvice",
+		"requiredTech": "Civil Service",
 		"requiredResource": "Iron"
 	}
 ]
