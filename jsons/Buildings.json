@@ -11,11 +11,11 @@
 		"requiredTech": "Pottery"
 		
 		"name": "Crêperie",
+		"replaces" : "Trading Post",
 		"uniqueTo": "Breton",
-		"cost": 60,
-		"happiness": 1,
-		"Growth": 5,
-		"maintenance": 0,
+		"cost": 8,
+		"Gold": 2,
+		"Growth": 1,
 		"requiredTech": "Currency"
 
 	}
