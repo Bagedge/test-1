@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Breton",
-		"leaderName": "François I de Breatgne",
+		"leaderName": "François I",
 		"adjective": ["Breton"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
