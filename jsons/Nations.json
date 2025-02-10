@@ -29,7 +29,7 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
+		"unique": "[+50]% growth [in all cities] ",
 		"cities": ["Rennes","Brest","","Quimper","Lorient","Vannes","Saint-Malo","Saint-Brieuc","Lanester",
 			"Concarneau","Fougères","Lannion","Bruz","Vitré","Ploemeur","Cesson-Sévigné","Lamballe-Armor","Landerneau","Hennebont",
 			"Guipavas","Morlaix"]
